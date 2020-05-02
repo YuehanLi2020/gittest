@@ -5,4 +5,5 @@ today is sunshine and warm!
 But we stay home and study.
 
 Here is the new feature!
-someting new here!
+something new here!
+somthing fixed here!
